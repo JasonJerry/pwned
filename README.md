@@ -1,5 +1,3 @@
-# pwned
-
 <p align="center">
 <a href="https://github.com/JasonJerry"><img title="Author" src="https://img.shields.io/badge/Author-Jason Jerry-red.svg?style=for-the-badge&logo=github"></a></p>
 <p align="center">
